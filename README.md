@@ -24,6 +24,3 @@ for example:
 
 ### Run REPL with Chrome
 `npm run repl`
-
-### SUT for Home Work
-[https://viktor-silakov.github.io/course-sut/](https://viktor-silakov.github.io/course-sut/)
